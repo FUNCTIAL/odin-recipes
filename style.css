@@ -1,0 +1,33 @@
+/** {
+  outline: 2px solid red;
+}*/
+
+body {
+	max-width: 600px;
+	background-color: #1f202b;
+	font-family: "Roboto Mono", monospace;
+	color: white;
+	margin: auto;
+}
+
+div {
+	width: auto;
+	/*margin: auto;*/
+}
+
+h1 {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: #ff6314;
+}
+
+.pic {
+	text-align: center;
+}
+
+.ref {
+	margin-bottom: 32px;
+}
